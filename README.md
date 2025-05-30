@@ -1,7 +1,9 @@
 # HungTabe
 # 💫About Me :
 I'm curently working on FSOFT and PassCode-Center
-I'm looking to collaborate on Software Engineer Job
+
+I'm looking to collaborate on Software Engineer Job Freelance
+
 I'm currently learning NEXTjs
 
 ## 🌐Socials
