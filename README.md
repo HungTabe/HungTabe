@@ -19,7 +19,7 @@ I'm currently learning NEXTjs
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hungtabe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️Your destini Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
